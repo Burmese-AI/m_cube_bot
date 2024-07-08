@@ -58,7 +58,7 @@ async def movie(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
 
 async def contact(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    await update.message.reply_text("You can contact us at contact@example.com")
+    await update.message.reply_text("You can contact us at minphonethitcs001@gmail.com")
 
 #main
 def main() -> None:
